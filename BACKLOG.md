@@ -1,19 +1,20 @@
 # DotTime — Backlog
 
-## Wacht op: Google Play Developer verificatie
-- Account ID: `4776465046109751015` (Styt0, persoonlijk account)
-- Documenten geüpload 2026-04-13, verificatie duurt 2-5 dagen
-- Mail komt naar accounteigenaar zodra klaar
+## Play Store publicatie
 
-## Zodra verificatie rond is
-- [ ] Privacy policy hosten (GitHub Pages of tangosierra.one) en URL noteren
-- [ ] APK installeren op telefoon: `adb install app/build/outputs/apk/debug/app-debug.apk`
-- [ ] Widget toevoegen aan home screen, 2-3 screenshots maken
-- [ ] Play Console → Create app → upload `app/build/outputs/bundle/release/app-release.aab`
-- [ ] Store listing invullen vanuit `STORE_LISTING.md`
-- [ ] Privacy policy URL invullen
+### Gedaan
+- [x] Privacy policy gehost op GitHub Pages: https://styt0.github.io/dottime-android/privacy-policy.html
+- [x] Store listing compleet in `STORE_LISTING.md` (email: styto@duck.com)
+- [x] Release AAB gebuild: `app/build/outputs/bundle/release/app-release.aab` (1.8 MB)
+- [x] GitHub Pages ingeschakeld (branch: master, path: /docs)
+
+### Handmatig (op telefoon / Play Console)
+- [ ] APK installeren: `adb install app/build/outputs/apk/debug/app-debug.apk`
+- [ ] Widget toevoegen aan home screen, 2-3 screenshots maken (phone portrait, min 320px)
+- [ ] Play Console → Create app → upload `app-release.aab`
+- [ ] Store listing invullen (copy-paste uit `STORE_LISTING.md`)
 - [ ] Screenshots uploaden
-- [ ] Content rating questionnaire invullen (Everyone)
+- [ ] Content rating questionnaire invullen → Everyone
 - [ ] Categorie: Personalization
 - [ ] Publiceren
 
