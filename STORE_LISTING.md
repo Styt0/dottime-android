@@ -42,7 +42,7 @@ widget, time, progress, minimal, dots, clock, productivity
 Everyone
 
 ## Contact email
-(fill in your email)
+styto@duck.com
 
 ## Privacy policy URL
-(host the privacy policy below and paste URL here)
+https://styt0.github.io/dottime-android/privacy-policy.html
